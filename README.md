@@ -149,3 +149,8 @@ ORDER BY author_name;
 ```
 ![Screenshot 2024-05-04 at 03 34 23](https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/3f65c389-c47d-47a2-b244-bf870e1c704e)
 
+### Results/findings 
+
+The results are summarised as follows: [Download here](https://github.com/JoshuaAsante1997/Library-Database/files/15209902/Data.exploration.findings.pdf)
+
+
