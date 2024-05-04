@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 
-- [Project Overview](#project-overview)
+- [SQL scripts written to gain insights](#sql-scripts-written-to-gain-insights)
 - [Recommendations](#recommendations)
   
 
