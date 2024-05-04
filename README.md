@@ -2,9 +2,9 @@
 
 ## Important Table of Contents 
 
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [SQL scripts written to gain insights](#sql-scripts-written-to-gain-insights)
-- [Recommendations](#recommendations)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda) 📊
+- [SQL scripts written to gain insights](#sql-scripts-written-to-gain-insights) 💻
+- [Recommendations](#recommendations) 💡
   
 
 
