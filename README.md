@@ -1,6 +1,6 @@
 # Data Exploration 
 
-#### Full project can be found above as 'insights.sql Full Project'
+#### Full project can be found above as 'insights.sql  Full Project'
 
 ## Important Table of Contents 
 
