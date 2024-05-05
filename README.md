@@ -1,5 +1,7 @@
 # Data Exploration 
 
+### Full project can be found above as 'insights.sql Full Project'
+
 ## Important Table of Contents 
 
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda) 📊
