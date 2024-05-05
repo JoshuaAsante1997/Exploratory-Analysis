@@ -7,6 +7,7 @@
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda) 📊
 - [SQL scripts written to gain insights](#sql-scripts-written-to-gain-insights) 💻
 - [Recommendations](#recommendations) 💡
+- [Excel Interactive Dashboard](#excel-interactive-dashboard) 📊📉📈
   
 
 
@@ -161,5 +162,8 @@ ORDER BY author_name;
 ### Recommendations
 
 The results and recommendations are summarised as follows: [Download here](https://github.com/JoshuaAsante1997/Library-Database/files/15209902/Data.exploration.findings.pdf)
+
+
+### Excel Interactive Dashboard
 
 
