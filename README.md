@@ -168,5 +168,6 @@ The results and recommendations are summarised as follows: [Download here](https
 
 ### Excel Interactive Dashboard
 
-Please click the download link to access the Microsoft Excel interactive dashboard I created for viewers to have a better understanding of some of my insights.
+Please click the download link to access the Microsoft Excel interactive dashboard I created for viewers to have a better understanding of some of my insights.[Download here](https://github.com/JoshuaAsante1997/Library-Database/files/15213982/Library.Management.Dashboard.finalised.xlsx)
+
 
