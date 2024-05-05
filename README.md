@@ -166,4 +166,5 @@ The results and recommendations are summarised as follows: [Download here](https
 
 ### Excel Interactive Dashboard
 
+    Please click the download link to access the Microsoft Excel interactive dashboard I created for viewers to have a better understanding of some of my insights.
 
