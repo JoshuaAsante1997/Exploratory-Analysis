@@ -52,9 +52,11 @@ my library database.
      JOIN
      books AS b ON bw.book_id = b.book_id
      GROUP BY b.book_id
-     ORDER BY times_borrowed DESC;
+     ORDER BY times_borrowed DESC
+     LIMIT 1;
      ```
-     ![Screenshot 2024-05-04 at 02 58 47](https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/21596f9a-5bf4-49dd-8e0e-a500b4eb7a0f)
+![Screenshot 2024-05-05 at 02 54 45](https://github.com/JoshuaAsante1997/Library-Database/assets/149339304/15e7ff3e-de75-4763-9de9-b529d369b9d7)
+
 
 ```sql
 -- Most popular renting months in 2023 --
