@@ -14,7 +14,7 @@
 ### Project Overview
 
 The aim of this project is to see what valuable insights can be gained from the library database that I created. I seek to identify trends that can be used
-to help improve the librarys operations.
+to help improve the library's operations.
 
 
 ### Data sources
